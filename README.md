@@ -1,6 +1,7 @@
 # Hi, I'm Emelda 👋
 
-I’m an aspiring Healthcare Data Analyst passionate about transforming data into insights that improve healthcare decision-making.
+I’m building data analytics skills and creating projects that turn healthcare data into meaningful insights for better decision-making.
+
 
 ## Currently Learning
 
